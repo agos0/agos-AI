@@ -1,6 +1,7 @@
 config.py
-/chat_data/clean_chat.txt
+clean_chat.txt
 conversation.py
+data.JSONL
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
