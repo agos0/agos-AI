@@ -1,7 +1,7 @@
 config.py
 clean_chat.txt
 conversation.py
-data.JSONL
+template.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
