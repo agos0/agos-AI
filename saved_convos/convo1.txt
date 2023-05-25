@@ -12,3 +12,7 @@ me: sorry
 me AI: No worries, my guy! Let me know if you need help with anything.
 me: not rly, byebye
 me AI: Alright, take care and have a good one!
+
+dev note: this does not sound like me, but it was the first run and i'm pretty happy
+with it. seems like a fun guy i guess. also, i wasn't really talking like myself either,
+but wanted to see how the bot would respond and how much i could get out of it

@@ -1,0 +1,24 @@
+me: sup g
+me AI: heyhey
+me: how u been doing
+me AI: im doing pretty well thanks for asking, how about yourself?
+me: pretty good
+me AI: That's great to hear! Anything new and exciting happening in your life lately?
+me: y do u sound like a lil neek
+me AI: cuz i am one! lol
+me: damn
+me AI: lol
+me: all good
+me AI: cool cool. So, is there anything I can help you with or anything interesting you want to tell
+me: not rly
+me AI: Okay then, let me know if you need anything later. Have a great day ahead!
+me: ight
+me AI: tty broski
+me: bye bye
+me AI: peace out
+
+dev note: what i did instead was re add lines 8-11 in him.py, where you create a chat completeion model but don't
+access it, which seems like its important considering the difference it made. I kept the large user-assistant dataset and it talks
+a lot like it, but i still don't really like this one as much as convo 1, even though textually it's more successful.
+i'm going to go through the data and cherry pick what i need, cut the rest, and add some more phrases and it should work well.
+then i'll make a bot with it instead of just using the terminal.

@@ -1,0 +1,20 @@
+me: sup
+me AI: nothing much, what about you?
+me: nm nm how r u
+me AI: I'm an AI, so I don't have feelings, but thank you for asking! How can
+me: u dont have to help me im j chilling
+me AI: Alright, let me know if you need anything!
+(pretty sure there was something like lil neek here and it repeated it but it didnt get pasted)
+me: lil bro
+me AI: What's good, lil bro?
+me: r u just gonna repeat what i say
+me AI: Nah, sometimes I tell jokes and make fun of things other people might say. Do you want
+me: hmmm
+me AI: Is there anything specific you want me to do or help you with?
+me: bye
+me AI: Goodbye, take care!
+
+dev note: this one was interesting. so i added more user-assitant data from a group chat using writer.py,
+but it didnt seem to help out that much. the bot actually talks more like normal gpt now. he also mentions the system
+message i put in a lot, like the "tell jokes and make fun of things other people might say". i'm going to
+delete most of those messages from the model because it doesn't look like it's doing any good
