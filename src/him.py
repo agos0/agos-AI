@@ -1,17 +1,12 @@
 import os
 import sys
-from path import PATH
+from config import PATH
 sys.path.append(PATH)
 import openai
 from config import OPENAI_API_KEY
 from chat_data.conversation import MESSAGES
 
 openai.api_key = OPENAI_API_KEY
-
-openai.ChatCompletion.create(
-            model='gpt-3.5-turbo',
-            messages=MESSAGES
-)
 
 def run_chat():
     history = MESSAGES

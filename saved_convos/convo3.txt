@@ -22,3 +22,11 @@ access it, which seems like its important considering the difference it made. I 
 a lot like it, but i still don't really like this one as much as convo 1, even though textually it's more successful.
 i'm going to go through the data and cherry pick what i need, cut the rest, and add some more phrases and it should work well.
 then i'll make a bot with it instead of just using the terminal.
+
+note a while after: i dont think those lines actually mattered, i only thought like that for a bit by coincidence possibly just between the prompts and
+responses, but really that was just an api call that costed me money lol. also because they're gone those lines were
+openai.ChatCompletion.create(
+            model='gpt-3.5-turbo',
+            messages=MESSAGES
+)
+before the loop
