@@ -1,4 +1,6 @@
-import os
+# CHAT WITH BOT THROUGH TERMINAL:
+
+"""
 import sys
 from config import PATH
 sys.path.append(PATH)
@@ -18,7 +20,7 @@ def run_chat():
             model='gpt-3.5-turbo',
             messages=history,
             temperature=1,
-            max_tokens=20,
+            max_tokens=90,
         )
         chatbot_reply = response['choices'][0]['message']['content']
         print("me AI:", chatbot_reply)
@@ -33,3 +35,4 @@ def end(msg):
     return False
 
 run_chat()
+"""

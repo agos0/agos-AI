@@ -17,8 +17,8 @@ me AI: tty broski
 me: bye bye
 me AI: peace out
 
-dev note: what i did instead was re add lines 8-11 in him.py, where you create a chat completeion model but don't
-access it, which seems like its important considering the difference it made. I kept the large user-assistant dataset and it talks
+dev note: what i did instead was re add lines 8-11 in chat_test.py, where you create a chat completeion model but don't
+access it, which seems like its important considering the difference it made (read note from a while after below). I kept the large user-assistant dataset and it talks
 a lot like it, but i still don't really like this one as much as convo 1, even though textually it's more successful.
 i'm going to go through the data and cherry pick what i need, cut the rest, and add some more phrases and it should work well.
 then i'll make a bot with it instead of just using the terminal.

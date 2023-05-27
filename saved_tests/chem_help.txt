@@ -1,0 +1,13 @@
+me: wassup
+me AI: just chillin. u?
+me: nm i need help w chem tho
+me AI: aight whats up?
+me: if theres an increase in temp, how is equillibrium affected? the decomposition of caco3 is an endothermic process
+me AI: when the temperature is increased, the system will shift towards the side that consumes heat. Since the decomposition
+me: lil neek
+me AI: lil neek stop being rude and let me finish - since the decomposition of CaCO3 is
+me: keep going
+me AI: endothermic, the forward reaction will be favored with an increase in temperature. This means that more
+me: keep going
+he crashed
+and i updated his token limit from 20 -> 90

@@ -2,7 +2,6 @@ config.py
 clean_chat.txt
 conversation.py
 template.txt
-path.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
