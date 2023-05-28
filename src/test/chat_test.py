@@ -6,7 +6,7 @@ from config import PATH
 sys.path.append(PATH)
 import openai
 from config import OPENAI_API_KEY
-from chat_data.conversation import MESSAGES
+from training_data.conversation import MESSAGES
 
 openai.api_key = OPENAI_API_KEY
 

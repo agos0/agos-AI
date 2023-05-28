@@ -1,5 +1,5 @@
-fin = open('chat_data/clean_chat.txt', 'r')
-fout = open('chat_data/template.txt', 'w')
+fin = open('training_data/clean_chat.txt', 'r')
+fout = open('training_data/template.txt', 'w')
 start = int(input('Choose a starting line: '))
 
 def write(inp, outp, s):
