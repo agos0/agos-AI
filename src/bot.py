@@ -1,3 +1,5 @@
+# CHAT WITH BOT ON DISCORD:
+
 import sys
 from path import PATH
 sys.path.append(PATH)

@@ -1,6 +1,5 @@
 # CHAT WITH BOT THROUGH TERMINAL:
 
-"""
 import sys
 from config import PATH
 sys.path.append(PATH)
@@ -35,4 +34,3 @@ def end(msg):
     return False
 
 run_chat()
-"""
